@@ -17,7 +17,7 @@ All images are preprocessed and resized to a consistent resolution of **250 × 2
 
 ## 📂 Dataset Structure
 Smoker_Detection_Dataset/
-│
+```
 ├── Smoking/
 │ ├── image_001.jpg
 │ ├── image_002.jpg
@@ -27,7 +27,7 @@ Smoker_Detection_Dataset/
 ├── image_001.jpg
 ├── image_002.jpg
 └── ...
-
+```
 ---
 
 ## 🌿 Data Collection and Curation
